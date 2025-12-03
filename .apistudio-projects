@@ -3,12 +3,6 @@ projects:
     description: ''
     tags: []
     lastUpdated: 1763149400768
-  DPNano_Product_Weather:
-    description: Sample project with API definitions and policies
-    tags:
-      - sample
-      - API
-    lastUpdated: 1764754188161
   DPv6_Product_Petstore:
     description: Sample project with API definitions and policies
     tags:
