@@ -3,3 +3,33 @@ projects:
     description: ''
     tags: []
     lastUpdated: 1763149400768
+  DPNano_Product_Weather:
+    description: Sample project with API definitions and policies
+    tags:
+      - sample
+      - API
+    lastUpdated: 1764754188161
+  DPv6_Product_Petstore:
+    description: Sample project with API definitions and policies
+    tags:
+      - sample
+      - API
+    lastUpdated: 1764754188165
+  wM-APIKey-Petstore:
+    description: Sample project with API definitions and policies
+    tags:
+      - sample
+      - API
+    lastUpdated: 1764754188167
+  wM-NoAuth-Petstore:
+    description: Sample project with API definitions and policies
+    tags:
+      - sample
+      - API
+    lastUpdated: 1764754188170
+  wM-Product-Petstore:
+    description: Sample project with API definitions and policies
+    tags:
+      - sample
+      - API
+    lastUpdated: 1764754188172
