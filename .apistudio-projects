@@ -3,9 +3,3 @@ projects:
     description: ''
     tags: []
     lastUpdated: 1763149400768
-  wM-APIKey-Petstore:
-    description: Sample project with API definitions and policies
-    tags:
-      - sample
-      - API
-    lastUpdated: 1764754506058
