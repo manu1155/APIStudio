@@ -15,9 +15,3 @@ projects:
       - sample
       - API
     lastUpdated: 1764754506060
-  wM-Product-Petstore:
-    description: Sample project with API definitions and policies
-    tags:
-      - sample
-      - API
-    lastUpdated: 1764754506062
